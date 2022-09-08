@@ -8,6 +8,12 @@
 
 ## Знакомство с Git
 
+Для того чтобы "познакомится" с Git, используем две команды:
+
+    git config --global user.name "Ivanov Ivan"
+    git config --global user.email "Ivanov.Ivan@rambler.ru"
+
+В ковычках указываем своё имя и адрес эл.почты     
 
 ## Инициализация репозитория
 
