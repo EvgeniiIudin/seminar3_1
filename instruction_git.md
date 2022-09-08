@@ -57,10 +57,9 @@
 
 Пример:
 
-    git commit 12345
+    git checkout 12345
 
 Для перехода к последнему commit используем команду:
 
-    git commit master
+    git checkout master
 
-    
